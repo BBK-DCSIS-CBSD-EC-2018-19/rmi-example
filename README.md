@@ -3,7 +3,7 @@
 
 RMI Example code from class
 
-*  Application contains four files
+The application contains four files
   
 +  `TestString.java`
    Remote interface for testing string objects
@@ -16,4 +16,4 @@ RMI Example code from class
 +  `ServerLaunch.java`
    Code for creating, registering remote `TestStringObject` object
 
-* Files must be compiled, then launched 
+Files must be compiled, then launched 
